@@ -1,0 +1,35 @@
+{
+  "name": "random-adj-animal",
+  "version": "1.0.0",
+  "description": "random adjectives + random animal",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "authors": [
+    "ehdcjf",
+    "ehdckf"
+  ],
+  "scripts": {
+    "build": "tsc --build tsconfig.build.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehdcjf/random-adj-animal.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "ehdcjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehdcjf/random-adj-animal/issues"
+  },
+  "homepage": "https://github.com/ehdcjf/random-adj-animal#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "name": "random-adj-animal"
+  }
+}

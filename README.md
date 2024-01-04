@@ -1,2 +1,2 @@
 # random-adj-animal
-adjectives + random animal
+random adjectives + random animal

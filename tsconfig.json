@@ -1,0 +1,22 @@
+{
+        "compilerOptions": {
+                "module": "CommonJS",
+                "declaration": true,
+                "declarationMap": true,
+                "noImplicitAny": true,
+                "removeComments": false,
+                "moduleResolution": "node",
+                "strict": true,
+                "strictNullChecks": false,
+                "noLib": false,
+                "emitDecoratorMetadata": true,
+                "experimentalDecorators": true,
+                "target": "es2017",
+                "sourceMap": true,
+                "skipLibCheck": true,
+                "esModuleInterop": true,
+                "lib": ["es2023"],
+                "paths": {}
+        },
+        "exclude": ["node_modules"]
+}
