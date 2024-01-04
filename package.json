@@ -1,5 +1,5 @@
 {
-  "name": "random-adj-animal",
+  "name": "@ehdcjf/random-adj-animal",
   "version": "1.0.0",
   "description": "random adjectives + random animal",
   "main": "lib/index.js",
